@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title>League Registration</title>
+</head>
+
+<link rel="stylesheet" href="styles/styles.css">
+
+<div class = "navbar">
+	<a href="index.html">Disc Golf Information</a>
+	<a href="howtoplay.html">How to Play</a>
+	<a href="courses.html">Local Courses</a>
+	<a href="gear.html">Buy Gear</a></h2></a>
+	<a href="mailing.html">Mailing List</a>
+	<a class = "active right" href="registration.html">Registration</a>
+	<a class = "right" href="roster.php">League Roster</a>
+</div>
+
+<body>
+	<div class = "pagecontainer">
+		<h1>League Registration</h1>
+		<p>
+		You can sign up for league play by entering your information below:<br>
+		<div class = "warning">
+		*Note that all provided information will be publicly available on our league roster.
+		</div>
+		</p>
+
+		<div class = "forms">
+		<form action = "scripts/roster_signup_db.php" method = "POST">
+		
+		First Name<br>
+		<input type = "text" name = "first" required><br><br>
+		Last Name<br>
+		<input type = "text" name = "last" required><br><br>
+		Email<br>
+		<input type = "text" name = "email" required><br><br>
+		Phone Number<br>
+		<input type = "text" name = "phone" required><br><br>
+		<input type = "submit" value = "Submit">
+		</form>
+		</div>
+
+		<p>
+		<b>Already a member of our league? View our current roster by <a href="roster.php">clicking here!</a></b>
+		</p>
+
+		<div class = "footer">
+			CIS 501 Project One - 2021 (Jon Griesen)
+		</div>
+
+</body>
+</html>

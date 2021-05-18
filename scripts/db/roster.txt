@@ -1,0 +1,11 @@
+Jon,Griesen,griesenj@mail.gvsu.edu,111-111-1111
+Super,Man,kentclark@dailyplanet.com,123-123-1234
+Bruce,Wayne,totallynotbatman@wayneenterprises.com,567-765-5675
+Albert,Einstein,mcsquared@zurich.edu,999-999-9999
+Paige,Pierce,paige@discraft.com,888-888-8888
+Paul,McBeth,mcbeast@discraft.com,777-777-7777
+Spongebob,Squarepants,frycook@krustykrab.com,666-666-6666
+Squidward,Tentacles,clarinetsquid@bikinibottom.gov,555-555-5555
+Patrick,Star,innermachinations@enigma.net,444-444-4444
+Dat,Boi,waddup@meme.org,987-765-4321
+Slim,Shady,eminem@rap.net,111-111-2223

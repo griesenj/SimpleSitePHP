@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>Mailing List</title>
+	</head>
+
+<link rel="stylesheet" href="styles/styles.css">
+
+<div class = "navbar">
+	<a href="index.html">Disc Golf Information</a>
+	<a href="howtoplay.html">How to Play</a>
+	<a href="courses.html">Local Courses</a>
+	<a href="gear.html">Buy Gear</a></h2></a>
+	<a class = "active" href="mailing.html">Mailing List</a>
+	<a class = "right" href="registration.html">Registration</a>
+	<a class = "right" href="roster.php">League Roster</a>
+</div>
+
+<body>
+	<div class = "pagecontainer">
+		<h1>Mailing List</h1>
+		<h2>Subscribe</h2>
+		<p>
+		For updates on local disc golf happenings, your can join our mailing list by entering your email address below:
+		</p>
+
+		<div class = "forms">
+		<form action = "scripts/mailing_signup_db.php" method = "POST">
+		Email<br>
+		<input type = "text" name = "email" required><br><br>
+		<input type = "submit" value = "Submit">
+		</form>
+		</div>
+
+		<h2>Unsubscribe</h2>
+		<p>
+		If you would like to unsubscribe from future mailings, please enter your registered email address below:
+		</p>
+		
+		<div class = "forms">
+		<form action = "scripts/mailing_unsub_db.php" method = "POST">
+		Email<br>
+		<input type = "text" name = "remove" required><br><br>
+		<input type = "submit" value = "Submit">
+		</form>
+		</div>
+
+		<div class = "footer">
+			CIS 501 Project One - 2021 (Jon Griesen)
+		</div>
+
+	</div>
+</body>
+</html>
