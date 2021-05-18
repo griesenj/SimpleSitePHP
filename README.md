@@ -1,5 +1,4 @@
-# SimpleSitePHP
-Simple PHP-oriented website with a .txt file serving as basis for backend data processing. Created for a masters class (CIS501).
+# Simple PHP Website
 
 This project was created as a part of a graduate level computer science class with focus on HTML, PHP, and SQLite. Basic backend functionality through PHP was used for web forms and generation of a dynamic HTML table. Read/write operations acted on a text file rather than a formal database based on server-side limitations associated with SQLite. Additionally, this project restricted all use of JavaScript.
 
@@ -13,11 +12,10 @@ This project was created as a part of a graduate level computer science class wi
 
 Video Walkthrough: [https://youtu.be/0o15g-1zMAo](https://youtu.be/0o15g-1zMAo)
 
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page1.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page2.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page3.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page4.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page5.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page6.png
-https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page7.png
-
+![Disc Golf Information](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page1.png)
+![How To Play](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page2.png)
+![Local Courses](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page3.png)
+![Buy Gear](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page4.png)
+![Mailing List](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page5.png)
+![League Roster](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page6.png)
+![Registration](https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page7.png)
