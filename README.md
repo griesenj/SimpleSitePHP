@@ -10,3 +10,14 @@ This project was created as a part of a graduate level computer science class wi
 - Displays existing roster data and provides a web form allowing new players to add their information to the roster.
 
 ### Video Walkthrough & Pages
+
+Video Walkthrough: [https://youtu.be/0o15g-1zMAo](https://youtu.be/0o15g-1zMAo)
+
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page1.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page2.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page3.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page4.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page5.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page6.png
+https://raw.githubusercontent.com/griesenj/SimpleSitePHP/main/.github/screenshots/page7.png
+
